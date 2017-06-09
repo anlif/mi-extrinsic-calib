@@ -7,6 +7,11 @@ AUTHOR
   or without modification, are permitted under the GNU
   Lesses General Public License (see LICENSE)
 
+MODIFIED BY (2017)
+===========
+  Andreas L. Flaten
+  email: andreas.flaten@ntnu.no
+
 ABOUT
 =====
   This is a reference implementation of mutual information 
